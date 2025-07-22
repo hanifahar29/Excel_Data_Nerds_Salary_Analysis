@@ -43,7 +43,7 @@ A more advanced Excel analytics project leveraging add-ins and data modeling too
 
 Data used in both projects is sourced from:
 
-🔗 [Excel Data Analytics Course – Datasets](https://github.com/lukebarousse/Excel_Data_Analytics_Course/tree/main/0_Resources/Datasets)
+🔗 [Data_Jobs_Salary](https://github.com/lukebarousse/Excel_Data_Analytics_Course/tree/main/0_Resources/Datasets)
 
 ---
 ## ✅ Compatibility
